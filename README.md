@@ -4,23 +4,19 @@
 for reproduction, even though the expected utility for being risk
 neutral would have been greater.**
 
-At each second, each adult individual earns $2.5 to bet on a flipping
-coin, to win ($6) or else save it into their account.
+At each second, each adult individual earns $2.5 for savings or to 
+bet on a flipping coin, to win ($6).
 
 The stock of food (in their account) has to depreciate each second
 (multiply by 0.9) since food expires.
 
-Individuals were classified as risk neutral or at a certain level of
-risk averse.
+When the bet has positive profit on average, as in this setup, risk neutral 
+population would bet 100% of time.
 
-Under optimal circumstance, for risk neutral people they would bet 100%
-of time, or 1.0 probability.
+Risk averse population would bet with 0.7 probability.
 
-For people who are somewhat risk averse, they would bet w/ say 0.7
-probability.
-
-Both risk neutral and risk averse start off with (100) people population
-and dies off automatically after 50 seconds.
+Both risk neutral and risk averse population start off with (100) people,
+with longevity at 50 seconds.
 
 Each second each adult needs to spend $2 to survive.
 
