@@ -24,8 +24,11 @@ becomes-->
 If at any time, the saving is less than $2 + x*$1 then the family members will die starting from the youngest on the ArrayList. Element 0 is the parent, gets $2 first, then the oldest child at element 1 gets $1 and so on. Anyone who doesn’t get money/food dies. 
 
 After a , sort individuals of Population (A + B) by:
+
 -Life time # of children produced
+
 -Life time # of children became adults
+
 -Longevity
 
 **Next Steps:
