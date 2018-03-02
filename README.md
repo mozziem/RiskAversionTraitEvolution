@@ -1,4 +1,4 @@
-The objective of this simulation is to test the evolutionary advantageous of stable income for raising offspring, even when the expected utility for being risk neutral would be greater on average.
+**The objective of this simulation is to test the evolutionary advantageous of stable income for raising offspring, even when the expected utility for being risk neutral would be greater on average.**
 
 Both risk neutral and risk averse population start off with 100 people, with longevity at 50 seconds.
 
